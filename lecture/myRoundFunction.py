@@ -14,7 +14,7 @@
 
 # ### 반올림 함수
 
-# In[5]:
+# In[ ]:
 
 
 def roundFunction(number,num_digits):
@@ -30,7 +30,7 @@ def roundFunction(number,num_digits):
 
 # ### 올림 함수
 
-# In[6]:
+# In[ ]:
 
 
 def roundUpFunction(number,num_digits):
@@ -46,7 +46,7 @@ def roundUpFunction(number,num_digits):
 
 # ### 내림 함수
 
-# In[7]:
+# In[ ]:
 
 
 def roundDownFunction(number,num_digits):
