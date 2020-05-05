@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # DB 접속 엔진 관련
+# # DB 접속 엔진 관련 (v1.0.1 updated 20.05.05)
 
 # In[1]:
 
@@ -37,16 +37,23 @@ def PrintWebCrawling() :
     crawling = []
     crawling.append('import requests, bs4')
     crawling.append('from selenium import webdriver')
-    crawling.append('from selenium.webdriver.common.action_chains import ActionChains')
     crawling.append('from selenium.webdriver.common.keys import Keys')
     crawling.append('driver_loc = "/Applications/chromedriver"\n')
     crawling.append('options = webdriver.ChromeOptions()')
     crawling.append('options.add_argument("window-size=1920x1080")              # 대부분은 적용이 안 되는 것 같다.')
     crawling.append("options.add_argument('headless')                           # 리눅스처럼 웹 화면 없는 경우에도 실행 가능.")
+    crawling.append("options.add_argument('disable-gpu')")
     crawling.append('driver = webdriver.Chrome(driver_loc, options=options)')
     crawling.append('driver.maximize_window()                                   # 이렇게 해주면 무조건 최대화 시킨다. 위에 픽셀보다 잘 먹힘.')
     crawling.append('driver.implicitly_wait(3)                                  # 웹페이지 파싱 될 때까지 최대 3초 기다려줌.')
-    crawling.append('from pandas.io.json import json_normalize                  # pd.json_normalize로 사용해도 된다.\n')
+    crawling.append('')
+    crawling.append('from selenium.webdriver.common.action_chains import ActionChains')
+    crawling.append('import time')
+    crawling.append('from selenium.webdriver.support import expected_conditions as EC')
+    crawling.append('from selenium.webdriver.common.by import By')
+    crawling.append('from selenium.webdriver.support.ui import WebDriverWait as wait')
+    crawling.append('')
+    crawling.append('from pandas.io.json import json_normalize                  # 그냥 pd.json_normalize를 사용하자.')
     crawling.append('from lxml import html')
     crawling.append('from urllib.request import Request, urlopen')
     crawling.append('from urllib.parse import urlencode, quote_plus, unquote')
