@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # DB 접속 엔진 관련 (v1.0.1 updated 20.05.05)
-
-# In[1]:
+# # DB 접속 엔진 관련 (v1.1.0 updated 20.05.10)
 
 
 def PrintDbEngine() :
@@ -22,15 +20,10 @@ def PrintDbEngine() :
         print(db[i])
 
 
-# In[2]:
-
-
 # PrintDbEngine()    # 디버깅용.
 
 
 # # 크롤링 관련
-
-# In[3]:
 
 
 def PrintWebCrawling() :
@@ -62,15 +55,10 @@ def PrintWebCrawling() :
         print(crawling[i])
 
 
-# In[4]:
-
-
 # PrintWebCrawling()    # 디버깅용.
 
 
 # # 이메일 발송 관련
-
-# In[5]:
 
 
 def PrintEmail() :
@@ -83,9 +71,24 @@ def PrintEmail() :
     for i in range(0,len(email)):
         print(email[i])
 
-
-# In[6]:
-
-
+        
 # PrintEmail()    # 디버깅용.
 
+
+# # 차트 시각화 관련
+
+def PrintChart() :
+    chart = []
+    chart.append('import matplotlib.pyplot as plt')
+    chart.append('from matplotlib import rc')
+    chart.append('import seaborn as sns')
+    chart.append('%matplotlib inline')
+    chart.append('')
+    chart.append("rc('font', family='AppleGothic')")
+    chart.append("plt.rcParams['axes.unicode_minus'] = False")
+    
+    for i in range(0,len(chart)):
+        print(chart[i])
+
+
+# PrintChart()    # 디버깅용.
