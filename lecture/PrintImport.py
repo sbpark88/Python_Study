@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # DB 접속 엔진 관련 (v1.1.0 updated 20.05.10)
+# # DB 접속 엔진 관련 (v1.1.1 updated 20.05.11)
 
 
 def PrintDbEngine() :
@@ -42,6 +42,7 @@ def PrintWebCrawling() :
     crawling.append('')
     crawling.append('from selenium.webdriver.common.action_chains import ActionChains')
     crawling.append('import time')
+    crawling.append('sleepTime = 3                                              # time.sleep(sleepTime)을 사용한다.')
     crawling.append('from selenium.webdriver.support import expected_conditions as EC')
     crawling.append('from selenium.webdriver.common.by import By')
     crawling.append('from selenium.webdriver.support.ui import WebDriverWait as wait')
