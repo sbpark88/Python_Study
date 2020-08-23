@@ -1,0 +1,7 @@
+com.samsung.shealth.wearable_settings,6105031,1
+text_value,pkg_name,update_time,create_time,datauuid,blob_value,float_value,long_value,double_value,key,int_value,deviceuuid
+,com.sec.android.app.shealth,2020-07-09 00:53:58.281,2020-07-09 00:53:42.239,b9ed0a85-01c9-43e0-8875-550a6c295b8a,,,,,hrm_elevated_hr,1,xUcHHNl7co,
+,com.sec.android.app.shealth,2020-07-12 06:21:52.635,2020-07-09 00:53:47.397,405dfea3-0875-4b82-ade1-3a534d29a467,,,,,stress_auto_measure,1,xUcHHNl7co,
+,com.sec.android.app.shealth,2020-07-09 00:53:56.838,2020-07-09 00:53:56.838,934da6f4-6dc4-484a-b17c-fe9681f6f7cf,,,,,hrm_auto_measure,0,xUcHHNl7co,
+,com.sec.android.app.shealth,2020-07-12 02:26:04.490,2020-07-09 00:53:58.312,922c3f66-0f69-42f5-951d-b3e8b25d80d7,,,,,hrm_elevated_hr_alerts,100,xUcHHNl7co,
+,com.sec.android.app.shealth,2020-07-12 06:22:10.238,2020-07-12 06:22:10.238,f41d80d9-9537-43d9-876b-ec63252ad080,f41d80d9-9537-43d9-876b-ec63252ad080.blob_value.json,,,,exercise_selected_type,,xUcHHNl7co,

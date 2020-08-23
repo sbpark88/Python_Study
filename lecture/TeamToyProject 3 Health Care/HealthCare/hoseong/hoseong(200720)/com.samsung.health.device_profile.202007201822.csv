@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6105031,6
+create_time,providing_step_goal,device_group,step_source_group,device_type,connectivity_type,manufacturer,deviceuuid,pkg_name,capability,update_time,datauuid,name,backsync_step_goal,model,fixed_name
+2019-09-21 09:39:52.436,,0,,,,Combined,VfS0qUERdZ,com.sec.android.app.shealth,,2019-09-21 09:39:52.436,7af9722c-cd99-07b7-853a-43ce58e819c5,Combined,,Combined,Galaxy S8,
+2019-09-21 09:39:52.385,,360001,,,,Samsung,CHxXcBbd2u,com.sec.android.app.shealth,,2019-09-21 09:39:52.385,c16aa866-811e-52af-7aac-2f8c8996d3a0,My Device,,SM-G950N,Galaxy S8,
+2019-09-21 09:39:56.162,,0,,,,all_target,Mk66SbFqK1,com.sec.android.app.shealth,,2019-09-21 09:39:56.162,471ca32b-a665-1e9e-7c27-7ac69485dc05,all_target,,all_target,Galaxy S8,
+2020-07-09 00:50:14.192,1,360003,20,10047,,Samsung Electronics,xUcHHNl7co,com.sec.android.app.shealth,a3ce1a24-5a87-988a-5e94-eb54e5b57fd0.capability.json,2020-07-09 02:15:43.721,a3ce1a24-5a87-988a-5e94-eb54e5b57fd0,Galaxy Fit,1,,Galaxy S8,

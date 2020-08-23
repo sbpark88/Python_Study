@@ -1,0 +1,116 @@
+{
+  "mDashboardColumns" : 3,
+  "mUpdateTime" : 1594358012979,
+  "mTileInfoList" : [
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sleep.1",
+      "mServiceControllerId" : "tracker.sleep"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.pedometer.1",
+      "mServiceControllerId" : "tracker.pedometer"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.heartrate.simple",
+      "mServiceControllerId" : "tracker.heartrate"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.stress.1",
+      "mServiceControllerId" : "tracker.stress"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.water.1",
+      "mServiceControllerId" : "tracker.water"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_running.1",
+      "mServiceControllerId" : "tracker.sport_running"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_walking.1",
+      "mServiceControllerId" : "tracker.sport_walking"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_cycling.1",
+      "mServiceControllerId" : "tracker.sport_cycling"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.food.1",
+      "mServiceControllerId" : "tracker.food"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.floor.1",
+      "mServiceControllerId" : "tracker.floor"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.weight.simple",
+      "mServiceControllerId" : "tracker.weight"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.caffeine.1",
+      "mServiceControllerId" : "tracker.caffeine"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_hiking.1",
+      "mServiceControllerId" : "tracker.sport_hiking"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_weight_machine_15002.1",
+      "mServiceControllerId" : "tracker.sport_weight_machine_15002"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_basketball_4003.1",
+      "mServiceControllerId" : "tracker.sport_basketball_4003"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_lunge_10013.1",
+      "mServiceControllerId" : "tracker.sport_lunge_10013"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_leg_raise_10024.1",
+      "mServiceControllerId" : "tracker.sport_leg_raise_10024"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_squat_10012.1",
+      "mServiceControllerId" : "tracker.sport_squat_10012"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_sit_up_10006.1",
+      "mServiceControllerId" : "tracker.sport_sit_up_10006"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_push_up_10004.1",
+      "mServiceControllerId" : "tracker.sport_push_up_10004"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_plank_10025.1",
+      "mServiceControllerId" : "tracker.sport_plank_10025"
+    },
+    {
+      "mPackageName" : "com.sec.android.app.shealth",
+      "mTileId" : "tracker.sport_table_tennis_6004.1",
+      "mServiceControllerId" : "tracker.sport_table_tennis_6004"
+    }
+  ]
+}

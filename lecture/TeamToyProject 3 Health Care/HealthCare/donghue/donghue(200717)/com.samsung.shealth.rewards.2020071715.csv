@@ -1,0 +1,624 @@
+com.samsung.shealth.rewards,1140029,4
+is_visible,pkg_name,number_of_streak,time_offset,exercise_type,source_pkg_name,start_time,device_type,program_id,title,deviceuuid,exercise_session_id,controller_id,end_time,extra_data,datauuid,create_time,update_time
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 10161
+}"",e870543d-3ef9-4021-b2bf-9d70de86a2cd,2020. 07. 06. 18:41:34,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 12939
+}"",c043fce3-8d78-4364-9075-67e64d6212a2,2020. 07. 06. 18:41:35,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 12124
+}"",5c76ddb3-535d-4f98-97f5-9bc7a13a8946,2020. 07. 06. 18:41:46,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 06. 00:00:00,""{
+  "mValue2" : 60,
+  "mValue" : 138,
+  "mIsCompleted" : true
+}"",f4592745-62b6-4e1f-93b8-f4b375181323,2020. 07. 06. 18:41:47,2020. 07. 07. 18:36:34,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 00:00:00,,,goal_activity_reward_most_active_day,sZOKHxE5f1,,goal.activity,2020. 07. 06. 00:00:00,""{
+  "mValue2" : 0,
+  "mValue" : 138,
+  "mIsCompleted" : true
+}"",09df2321-60b4-480b-8d20-9a77509ee452,2020. 07. 06. 18:45:39,2020. 07. 07. 19:12:00,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 22:04:39,""{
+  "mTarget" : -1,
+  "mValue" : 10136
+}"",66530200-d2c3-49ab-848a-a7bb260d9388,2020. 07. 06. 22:04:39,2020. 07. 06. 22:04:39,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10136
+}"",a6b57573-3009-4a6f-a2cd-95142a584791,2020. 07. 06. 22:04:39,2020. 07. 06. 22:04:39,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 22:04:39,""{
+  "mTarget" : -1,
+  "mValue" : 10136
+}"",c63e997b-6268-4b96-9757-f8a4f28164db,2020. 07. 06. 22:04:39,2020. 07. 06. 22:04:39,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12939
+}"",607b4c88-2d62-4b11-b0aa-1a33bdba68d5,2020. 07. 06. 22:04:40,2020. 07. 07. 10:04:43,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,2399999,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12124
+}"",97e26181-622b-46b5-8fdb-ebbedd24c130,2020. 07. 06. 22:04:51,2020. 07. 07. 14:24:19,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12824
+}"",69641b56-395f-4306-9494-b9c28aeddb60,2020. 07. 06. 22:05:03,2020. 07. 06. 22:05:03,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 15134
+}"",35137e9c-8d9b-40d0-b79e-89e9943a10de,2020. 07. 07. 10:04:16,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",3e18b48a-084a-4b6c-a076-a6c634dea6ae,2020. 07. 07. 10:04:16,2020. 07. 07. 10:04:16,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 18020
+}"",1202d28d-c862-4f97-8be4-f780754c2738,2020. 07. 07. 10:04:16,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",cb2e5a2a-114e-4f22-85a7-60e5ae396bc5,2020. 07. 07. 10:04:31,2020. 07. 07. 10:04:31,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 17439
+}"",6e90a303-9845-4605-b74a-715f05496891,2020. 07. 07. 10:04:35,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 07. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 187,
+  "mIsCompleted" : false
+}"",1e1d0b68-c128-451c-9ac7-446d32c32cf1,2020. 07. 07. 10:04:35,2020. 07. 10. 13:05:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",6a3e676c-6d1e-4020-b505-40521e09d54e,2020. 07. 07. 10:05:01,2020. 07. 07. 10:05:01,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",ecaa4785-42d7-4365-8dfe-33ea14e6f592,2020. 07. 07. 10:27:22,2020. 07. 07. 10:27:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",6cfad690-7251-478c-abce-7d01b0694606,2020. 07. 07. 10:50:54,2020. 07. 07. 10:50:54,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",1068f657-e1fb-4ca4-914f-519b98cce0ab,2020. 07. 07. 12:00:10,2020. 07. 07. 12:00:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",bcc59d4e-1925-4a9c-abde-6e7b9801ae19,2020. 07. 07. 14:00:08,2020. 07. 07. 14:00:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",0a2e4187-cec7-458f-afa1-95611506d393,2020. 07. 07. 14:00:18,2020. 07. 07. 14:00:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 00:00:00,,,goal_activity_reward_most_active_day,sZOKHxE5f1,,goal.activity,2020. 07. 07. 00:00:00,""{
+  "mValue2" : 0,
+  "mValue" : 187,
+  "mIsCompleted" : false
+}"",10b35db0-4a6e-4b36-a24d-58a9294f8788,2020. 07. 07. 14:00:22,2020. 07. 15. 23:38:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",8ae65187-4ff1-4f4f-bf38-e12b3adaa2ff,2020. 07. 07. 14:24:18,2020. 07. 07. 14:24:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 17:11:46,""{
+  "mTarget" : -1,
+  "mValue" : 10209
+}"",327502f4-1c03-428a-8f77-d700e71f2317,2020. 07. 07. 17:11:46,2020. 07. 07. 17:11:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 17:11:46,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",d59dbd2a-a106-4b86-9f38-83f8e4f9a581,2020. 07. 07. 17:11:46,2020. 07. 07. 17:11:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10161
+}"",06ad2dee-5361-4c85-89cd-64fb49d53883,2020. 07. 07. 17:11:46,2020. 07. 07. 17:11:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",65ab33e8-62f8-47e4-a630-28090c9e38bf,2020. 07. 07. 17:11:46,2020. 07. 07. 17:11:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 17:11:46,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",5f4933d1-eea3-45d5-93f6-fe26cdc346e7,2020. 07. 07. 17:11:46,2020. 07. 07. 17:11:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",37675eab-ea27-49b6-a9c2-0fae24d35ba9,2020. 07. 07. 17:40:40,2020. 07. 07. 17:40:40,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 17:40:40,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",9b281cb4-7d33-49b2-913c-04ab205f7e3a,2020. 07. 07. 17:40:40,2020. 07. 07. 17:40:40,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",62cddec1-31b0-4581-8f96-b30cde2f1d24,2020. 07. 07. 17:40:51,2020. 07. 07. 17:40:51,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 17:40:51,""{
+  "mTarget" : -1,
+  "mValue" : 10283
+}"",8423e04e-f425-49d1-bb6c-3348648ec397,2020. 07. 07. 17:40:51,2020. 07. 07. 17:40:51,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:26:54,""{
+  "mTarget" : -1,
+  "mValue" : 10381
+}"",ab3ee929-bbfa-4368-a4a6-23327b16812a,2020. 07. 07. 18:26:54,2020. 07. 07. 18:26:54,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:26:54,""{
+  "mTarget" : -1,
+  "mValue" : 10381
+}"",b722ed2e-ec44-4608-9cf8-b021ffdcd670,2020. 07. 07. 18:26:54,2020. 07. 07. 18:26:54,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,2399999,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17439
+}"",10248638-10cb-4a77-8f1a-2aa2b650a7c2,2020. 07. 07. 18:26:56,2020. 07. 08. 16:00:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:36:33,""{
+  "mTarget" : -1,
+  "mValue" : 10387
+}"",1ea51eec-110e-44ea-ad72-fd3254614410,2020. 07. 07. 18:36:33,2020. 07. 07. 18:36:33,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:37:22,""{
+  "mTarget" : -1,
+  "mValue" : 10387
+}"",d2ba4264-6779-4a4a-892e-b553edb42a27,2020. 07. 07. 18:37:22,2020. 07. 07. 18:37:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:42:25,""{
+  "mTarget" : -1,
+  "mValue" : 10387
+}"",b6279d8b-ce4e-4bf0-a2db-a889968acf50,2020. 07. 07. 18:42:26,2020. 07. 07. 18:42:26,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 18:42:57,""{
+  "mTarget" : -1,
+  "mValue" : 10387
+}"",62b02d07-a23f-48e0-a98c-7051c9c4adfc,2020. 07. 07. 18:42:57,2020. 07. 07. 18:42:57,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:11:59,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",11d44286-89cb-4929-bdad-47aa24e39510,2020. 07. 07. 19:11:59,2020. 07. 07. 19:11:59,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:11:59,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",a60c94ef-be74-4f9a-8f0a-3086e7e3896f,2020. 07. 07. 19:11:59,2020. 07. 07. 19:11:59,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:12:00,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",26cadd5a-1737-4763-a88b-daa7604da2bd,2020. 07. 07. 19:12:00,2020. 07. 07. 19:12:00,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:12:19,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",ef280359-32d2-465e-99df-b399d8a20ae5,2020. 07. 07. 19:12:19,2020. 07. 07. 19:12:19,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:12:34,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",91001558-af66-4e19-b04e-9a08a64f04bc,2020. 07. 07. 19:12:34,2020. 07. 07. 19:12:34,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:12:56,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",011421ba-fa2d-4caa-a814-8da3dcfc99ed,2020. 07. 07. 19:12:56,2020. 07. 07. 19:12:56,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 19:22:03,""{
+  "mTarget" : -1,
+  "mValue" : 10434
+}"",a68d3d29-e2da-4f25-afff-bcc703a47fc8,2020. 07. 07. 19:22:03,2020. 07. 07. 19:22:03,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:16:22,""{
+  "mTarget" : -1,
+  "mValue" : 10441
+}"",64a86dcb-48ed-4641-883f-f608243474b4,2020. 07. 07. 20:16:22,2020. 07. 07. 20:16:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:16:22,""{
+  "mTarget" : -1,
+  "mValue" : 10466
+}"",670cb379-50fb-4122-b80f-27e8a885564c,2020. 07. 07. 20:16:22,2020. 07. 07. 20:16:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:16:24,""{
+  "mTarget" : -1,
+  "mValue" : 10511
+}"",ae688005-97bb-47eb-ac8e-274319c3fe84,2020. 07. 07. 20:16:25,2020. 07. 07. 20:16:25,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:16:27,""{
+  "mTarget" : -1,
+  "mValue" : 10511
+}"",0f7a4dcf-89ab-4312-968b-52b61c511c54,2020. 07. 07. 20:16:27,2020. 07. 07. 20:16:27,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:37:21,""{
+  "mTarget" : -1,
+  "mValue" : 10732
+}"",723a31c6-da6b-4917-ab14-be8ba569b44d,2020. 07. 07. 20:37:21,2020. 07. 07. 20:37:21,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:37:21,""{
+  "mTarget" : -1,
+  "mValue" : 11031
+}"",1b9457dc-1d30-4967-9742-5076660f1b97,2020. 07. 07. 20:37:21,2020. 07. 07. 20:37:21,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:37:22,""{
+  "mTarget" : -1,
+  "mValue" : 11031
+}"",68fee00b-1100-491a-8441-62acc082db47,2020. 07. 07. 20:37:22,2020. 07. 07. 20:37:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:37:22,""{
+  "mTarget" : -1,
+  "mValue" : 11125
+}"",7cf27e9f-bfce-4861-a96f-b5d11c5236b8,2020. 07. 07. 20:37:22,2020. 07. 07. 20:37:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 20:37:22,""{
+  "mTarget" : -1,
+  "mValue" : 11125
+}"",bb724625-12d3-4764-ac67-b59c4fccfd75,2020. 07. 07. 20:37:22,2020. 07. 07. 20:37:22,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:06,""{
+  "mTarget" : -1,
+  "mValue" : 11243
+}"",f423326f-3942-4c53-9abb-55e9e7517eaa,2020. 07. 07. 22:12:06,2020. 07. 07. 22:12:06,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:06,""{
+  "mTarget" : -1,
+  "mValue" : 11459
+}"",6db65297-7880-44e8-b7c5-7f6886198fd6,2020. 07. 07. 22:12:06,2020. 07. 07. 22:12:06,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 14977
+}"",16afc8ff-0b5b-4dae-8d24-67171401bb39,2020. 07. 07. 22:12:06,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:06,""{
+  "mTarget" : -1,
+  "mValue" : 11667
+}"",0d6b9540-81a7-40a2-b947-69cf0e57cd46,2020. 07. 07. 22:12:06,2020. 07. 07. 22:12:06,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 11777
+}"",7cab8e59-5885-431a-a206-71d4e79f0cf1,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 11940
+}"",c9bbd925-0f13-4025-bca6-a0bc1df4a5f8,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 12038
+}"",4031aa7f-6215-4a46-9800-b466ddd8dfcc,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 12286
+}"",fbb09460-190a-48fa-b329-3d54093caca5,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 12357
+}"",22c85d34-3896-4196-b534-d7a284403b2b,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 18020
+}"",0579d259-d4a9-4c49-a438-ae81ec78e3cb,2020. 07. 07. 22:12:07,2020. 07. 08. 10:25:55,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:07,""{
+  "mTarget" : -1,
+  "mValue" : 12488
+}"",27e22748-fd00-472e-b3d3-faf4c522b613,2020. 07. 07. 22:12:07,2020. 07. 07. 22:12:07,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:08,""{
+  "mTarget" : -1,
+  "mValue" : 12541
+}"",b88fde1f-2644-42ea-8c20-f2a91b2b6ef7,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15034
+}"",ba9dcee5-0044-4b82-92ed-834f1d32d8a0,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:08,""{
+  "mTarget" : -1,
+  "mValue" : 12646
+}"",efeb9921-050f-4ea1-9074-67efba295447,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:08,""{
+  "mTarget" : -1,
+  "mValue" : 12908
+}"",cb7a8dd7-cab8-43ed-a155-c0cf5f2a9340,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15608
+}"",4ded542c-2b07-4499-b445-a09800d1c971,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:08,""{
+  "mTarget" : -1,
+  "mValue" : 13066
+}"",88b8c43c-5ea6-4e0e-a752-bcfd92bc500c,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:08,""{
+  "mTarget" : -1,
+  "mValue" : 13313
+}"",39ebdfa2-ad8c-45dc-82cc-c83cc6ce1bd4,2020. 07. 07. 22:12:08,2020. 07. 07. 22:12:08,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15851
+}"",65f608ef-8292-4743-9886-778d325c9568,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:09,""{
+  "mTarget" : -1,
+  "mValue" : 13731
+}"",96016928-f5de-4ddd-b705-87172e6898c6,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:09,""{
+  "mTarget" : -1,
+  "mValue" : 13938
+}"",3381820a-62b5-4e59-827b-6e4ad93996d9,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:09,""{
+  "mTarget" : -1,
+  "mValue" : 14055
+}"",528b0f76-6a9b-4b42-96b4-7bca039c1a5e,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 16638
+}"",4fac6e57-2cb8-4f18-bd2e-88581e438392,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:09,""{
+  "mTarget" : -1,
+  "mValue" : 14402
+}"",873027c6-eacf-4615-a030-a0c09dadda7f,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 16985
+}"",dd4ef1e7-e0fb-4cea-b6df-9c56ae595d05,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:09,""{
+  "mTarget" : -1,
+  "mValue" : 15038
+}"",0229c0f4-71bc-428c-bb3a-9748d9928dfa,2020. 07. 07. 22:12:09,2020. 07. 07. 22:12:09,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17738
+}"",119560ba-ee7b-4963-ae9e-0a8d6a52cf93,2020. 07. 07. 22:12:10,2020. 07. 07. 22:12:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:10,""{
+  "mTarget" : -1,
+  "mValue" : 15115
+}"",f5da999c-592c-453f-b876-9be456ac3384,2020. 07. 07. 22:12:10,2020. 07. 07. 22:12:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:12:10,""{
+  "mTarget" : -1,
+  "mValue" : 15115
+}"",c6da659e-931f-4fdf-aab3-af1a6b4e5d10,2020. 07. 07. 22:12:10,2020. 07. 07. 22:12:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17815
+}"",b00a2f5b-a7a4-4c9c-bd3b-e9b54f0a98c3,2020. 07. 07. 22:12:10,2020. 07. 07. 22:12:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17922
+}"",e13b572e-9adb-44e0-a9d2-0031a9c8b635,2020. 07. 07. 22:12:11,2020. 07. 07. 22:12:11,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17922
+}"",3dde733e-d487-4b97-8165-0fa6ef048e17,2020. 07. 07. 22:12:11,2020. 07. 07. 22:12:11,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12939
+}"",c45fb5aa-7a8d-4c75-81ab-f1d42c5d4a2b,2020. 07. 07. 22:12:13,2020. 07. 07. 22:12:13,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",58ece6c5-fb19-456e-b8dc-9645172b6b0a,2020. 07. 07. 22:26:04,2020. 07. 07. 22:26:04,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:26:04,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",4dbb9ee2-ac51-4062-8910-5479f8c3bc11,2020. 07. 07. 22:26:04,2020. 07. 07. 22:26:04,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 22:26:04,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",087bf06c-426c-4cd5-977c-f496c1798a7c,2020. 07. 07. 22:26:04,2020. 07. 07. 22:26:04,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 06. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 12939
+}"",e7e13d9c-7884-4ab0-b958-607b82798327,2020. 07. 07. 22:26:04,2020. 07. 07. 22:26:04,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,100003,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 17964
+}"",f9d94c72-8b04-4654-8f79-fe9e989dfaff,2020. 07. 07. 22:27:01,2020. 07. 07. 22:27:01,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",396762a9-98e9-4493-84ad-532d89ef570f,2020. 07. 08. 10:23:54,2020. 07. 08. 10:23:54,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",bdb8ff17-e289-42fb-819a-3a585d8e9a93,2020. 07. 08. 10:24:01,2020. 07. 08. 10:24:01,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",3e71a754-6f04-440c-a487-dc02f1db4f90,2020. 07. 08. 14:03:27,2020. 07. 08. 14:03:27,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",1cb8895e-a30c-4316-8910-c4a817e40ce5,2020. 07. 08. 15:48:59,2020. 07. 08. 15:48:59,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",499dbd45-45a5-4a36-99b7-60457dbaebce,2020. 07. 08. 16:00:10,2020. 07. 08. 16:00:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",fa42e715-875a-4fc0-98e0-986733e6a812,2020. 07. 08. 17:21:05,2020. 07. 08. 17:21:05,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",4b9b0f1d-d71e-4e8c-ab3a-767abbb1dfe7,2020. 07. 09. 14:23:57,2020. 07. 09. 14:23:57,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 08. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 08. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6773
+}"",aea683c3-35b3-49a7-8ed0-0ddb454cd9bc,2020. 07. 09. 14:23:57,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 08. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 08. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7649
+}"",2e29c5ab-0bd9-416b-a714-28b257c59c81,2020. 07. 09. 14:23:57,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",6e3226c5-2f56-4d4b-ae6b-77f91ab2cca6,2020. 07. 09. 14:24:01,2020. 07. 09. 14:24:01,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",c4ac3cc7-e103-4200-adb8-e0ba8bf54fb9,2020. 07. 09. 15:24:49,2020. 07. 09. 15:24:49,
+0,com.sec.android.app.shealth,1203,32400000,11007,,,,,1203,sZOKHxE5f1,1554880d-c2de-26a8-39c9-23765f7851ac,sport.tracker.best.record.duration.lifetime,2020. 07. 09. 17:04:20,514900,f832de89-c8f9-4ba2-9cbe-1b60b579eb31,2020. 07. 09. 17:07:04,2020. 07. 09. 17:07:04,
+0,com.sec.android.app.shealth,1205,32400000,11007,,,,,1205,sZOKHxE5f1,1554880d-c2de-26a8-39c9-23765f7851ac,sport.tracker.best.record.calories.lifetime,2020. 07. 09. 17:04:20,102.000000,557edf32-133b-4aae-9727-22ddd3467c32,2020. 07. 09. 17:07:04,2020. 07. 09. 17:07:04,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",fffacea0-7a0f-4dd3-a0cd-15e6771ebe8d,2020. 07. 09. 17:10:02,2020. 07. 09. 17:10:02,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",5fa5ce78-4b15-42a6-bbab-fdfdf8448538,2020. 07. 09. 17:33:43,2020. 07. 09. 17:33:43,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 09. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 09. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6914
+}"",6c216081-427d-486e-bcd8-0cca1fd95626,2020. 07. 10. 11:52:43,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",9e5e8520-7f4a-4d67-828a-a7b029db4400,2020. 07. 10. 11:52:45,2020. 07. 10. 11:52:45,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",61f558f8-58db-4de9-82c9-282cce8cd0d8,2020. 07. 10. 11:53:03,2020. 07. 10. 11:53:03,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",3fb000ec-4a4e-4e38-abf3-7ac3f4b12e28,2020. 07. 10. 11:53:13,2020. 07. 10. 11:53:13,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 10. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 154,
+  "mIsCompleted" : true
+}"",cb251e8e-9855-495c-96f3-46bc86a617b8,2020. 07. 10. 13:05:09,2020. 07. 13. 20:36:56,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 10. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 12512
+}"",cbe0570b-eca4-4e40-a72e-4008f9c37764,2020. 07. 10. 13:12:23,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 10. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11656
+}"",14894829-52f6-458d-bb31-256c1f06cccd,2020. 07. 10. 13:39:37,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",8ab2c19a-0f24-487d-ba3a-f4ff6d6a70b6,2020. 07. 10. 16:19:44,2020. 07. 10. 16:19:44,
+0,com.sec.android.app.shealth,1203,32400000,6004,,,,,1203,sZOKHxE5f1,d4f1e9ae-c911-47af-804c-bc1beb92b776,sport.tracker.best.record.duration.lifetime,2020. 07. 10. 13:05:09,2790980,49890ffe-b841-444f-8158-5a430fa9a85d,2020. 07. 10. 16:40:13,2020. 07. 10. 16:40:13,
+0,com.sec.android.app.shealth,1205,32400000,6004,,,,,1205,sZOKHxE5f1,d4f1e9ae-c911-47af-804c-bc1beb92b776,sport.tracker.best.record.calories.lifetime,2020. 07. 10. 13:05:09,276.000000,93b7e88e-c525-4da4-a574-98e100184aa0,2020. 07. 10. 16:40:13,2020. 07. 10. 16:40:13,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",49e40822-06cc-445b-9753-44b45d32dac0,2020. 07. 10. 17:34:17,2020. 07. 10. 17:34:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",012b83b1-4e69-44b1-8e92-ddf60c9024f0,2020. 07. 10. 17:34:47,2020. 07. 10. 17:34:47,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",458ba4d3-e270-4eca-8bbb-f83d70b32c57,2020. 07. 10. 17:38:06,2020. 07. 10. 17:38:06,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",5dcc3cd3-6bd2-45a4-a6e3-9e6cfa7f1048,2020. 07. 13. 14:14:10,2020. 07. 13. 14:14:10,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 10. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 8894
+}"",d35e30b1-ae30-4fac-b59f-edcc13178858,2020. 07. 13. 14:14:10,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 12. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 12. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11100
+}"",687a4395-51ff-41d7-99e5-89023e3d6415,2020. 07. 13. 14:14:10,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 12. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 12. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11100
+}"",dc223440-a691-4e86-b572-862d75b13568,2020. 07. 13. 14:14:11,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 12. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 12. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 109,
+  "mIsCompleted" : true
+}"",9f9e2075-d158-455c-ae13-4d87367321d0,2020. 07. 13. 14:14:11,2020. 07. 13. 20:36:56,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",1d4bd94c-a9b0-41c7-9804-86712a598f2b,2020. 07. 13. 14:15:01,2020. 07. 13. 14:15:01,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",8aed15f7-fcbf-44fb-be85-99e69cb9725b,2020. 07. 13. 17:02:21,2020. 07. 13. 17:02:21,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",386bb955-e957-4e9d-abd0-25e15c24d952,2020. 07. 13. 17:02:52,2020. 07. 13. 17:02:52,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",4e5f55f5-4418-4364-ade8-8f75693b59b2,2020. 07. 13. 17:03:35,2020. 07. 13. 17:03:35,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",0aedcb0e-9421-40a2-9ff3-1ba7c0be87f3,2020. 07. 13. 17:11:12,2020. 07. 13. 17:11:12,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 13. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 8298
+}"",e19efc36-41dd-495d-9964-a315679276d6,2020. 07. 13. 20:36:54,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 13. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6742
+}"",32392f34-c2f2-47da-b780-7491fb4179f7,2020. 07. 13. 20:36:54,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",ca64eac4-b8bb-4c3a-b879-7a8f356bcdef,2020. 07. 13. 20:36:55,2020. 07. 13. 20:36:55,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 13. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 88,
+  "mIsCompleted" : false
+}"",d2b600c0-2f37-453c-941c-e38e4d22a110,2020. 07. 13. 20:36:56,2020. 07. 14. 23:36:46,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 13. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 7655
+}"",38a55998-c0b3-44e7-8e88-ba114969bfca,2020. 07. 13. 20:37:25,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",d509ec07-eebe-4c79-95f4-194612eb1f2c,2020. 07. 13. 23:37:34,2020. 07. 13. 23:37:34,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 14. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 14. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 9711
+}"",a8703566-7c3f-4d03-9ae5-85ecd58913ac,2020. 07. 14. 23:36:43,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 14. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 14. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11434
+}"",2e972b9c-fbc6-4743-a81a-f2d6daa85af3,2020. 07. 14. 23:36:43,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 14. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 14. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 124,
+  "mIsCompleted" : false
+}"",047d45b4-855d-4756-a0f0-54508c7f7d0c,2020. 07. 14. 23:36:46,2020. 07. 15. 14:50:36,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 14. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 14. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 10810
+}"",ef97b3f9-a871-4d4d-90ba-b500945f0a6f,2020. 07. 14. 23:36:49,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 15. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 16773
+}"",2fed4f83-9971-467b-a67f-d43036a9d05f,2020. 07. 15. 14:50:33,2020. 07. 17. 15:43:18,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 15. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 17393
+}"",b1ba2cfb-61e2-4f90-9159-da824b14df82,2020. 07. 15. 14:50:34,2020. 07. 17. 15:43:18,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 00:00:00,,,goal_activity_reward_goal_achieved,sZOKHxE5f1,,goal.activity,2020. 07. 15. 00:00:00,""{
+  "mValue2" : 80,
+  "mValue" : 198,
+  "mIsCompleted" : false
+}"",5af8db75-eb3e-465b-bf85-05a9212a6286,2020. 07. 15. 14:50:36,2020. 07. 15. 23:38:30,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 09:00:00,10009,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 15. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 9602
+}"",f0d6e54e-650d-4826-94bb-062107314114,2020. 07. 15. 21:12:04,2020. 07. 17. 15:43:17,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 00:00:00,,,goal_activity_reward_most_active_day,sZOKHxE5f1,,goal.activity,2020. 07. 15. 00:00:00,""{
+  "mValue2" : 0,
+  "mValue" : 198,
+  "mIsCompleted" : false
+}"",141797a7-958d-429b-b4d7-9d54bf308e6a,2020. 07. 15. 23:38:17,2020. 07. 15. 23:38:30,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",6dd8a96e-e9f1-44a8-8e47-427454407e7c,2020. 07. 16. 10:02:44,2020. 07. 16. 10:02:44,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 16. 09:00:00,2399999,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 16. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6305
+}"",acf230c4-2255-4af3-8a53-8190ceaebc30,2020. 07. 17. 11:29:47,2020. 07. 17. 15:43:19,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 16. 09:00:00,100003,,tracker_pedometer_reward_target_achieved,sZOKHxE5f1,,tracker.pedometer,2020. 07. 16. 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 6685
+}"",33a5a98e-e2b4-4add-b220-b637a108597a,2020. 07. 17. 11:29:47,2020. 07. 17. 15:43:18,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 06. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 06. 00:00:00,""{"mTarget":10,"mValue":11}"",7e87e959-957f-4794-816a-6c96b98dac3b,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 07. 00:00:00,""{"mTarget":10,"mValue":18}"",e7a02ed4-dc9b-4842-bbd5-93a86928a590,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 00:00:00,0,,tracker_floor_reward_most_floors_climbed,sZOKHxE5f1,,tracker.floor,2020. 07. 07. 00:00:00,""{"mTarget":-1,"mValue":18}"",f75f460a-bdea-4efb-aa89-2439da2f71cf,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 09. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 09. 00:00:00,""{"mTarget":10,"mValue":11}"",105ad0d9-9a67-4762-b4af-2abe2d6c3963,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 10. 00:00:00,""{"mTarget":10,"mValue":11}"",fabcd0ba-ef36-46b4-afb0-07be01fbfb0d,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 13. 00:00:00,""{"mTarget":10,"mValue":20}"",921637fe-207e-4214-8def-ee8c4187a800,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 00:00:00,0,,tracker_floor_reward_most_floors_climbed,sZOKHxE5f1,,tracker.floor,2020. 07. 13. 00:00:00,""{"mTarget":-1,"mValue":20}"",c48eedf7-1d30-4679-a1e1-f44acb3c64cc,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 14. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 14. 00:00:00,""{"mTarget":10,"mValue":19}"",dc27e986-99b8-4945-9e23-2914a0b601dc,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 15. 00:00:00,""{"mTarget":10,"mValue":25}"",5c8f436e-93c5-4fb9-a8b9-424ff012e066,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 15. 00:00:00,0,,tracker_floor_reward_most_floors_climbed,sZOKHxE5f1,,tracker.floor,2020. 07. 15. 00:00:00,""{"mTarget":-1,"mValue":25}"",6ac5e913-c3dd-4def-860f-faa42e1672f9,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 16. 00:00:00,0,,tracker_floor_reward_target_achieved,sZOKHxE5f1,,tracker.floor,2020. 07. 16. 00:00:00,""{"mTarget":10,"mValue":13}"",7b6df631-a62f-4742-b803-c0791180629f,2020. 07. 17. 11:29:55,2020. 07. 17. 11:29:55,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 08. 07:00:00,,,goal_sleep_TYPE_GOAL_GOOD_TIME_KEEPING,sZOKHxE5f1,,Sleep.Goal,2020. 07. 08. 01:00:00,1,5911ddaf-2c67-4fe3-955f-27c50ea8a859,2020. 07. 17. 15:43:17,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 07. 09:00:00,10009,,tracker_pedometer_reward_most_walking_day,sZOKHxE5f1,,tracker.pedometer,2020. 07. 07. 09:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 15134
+}"",d10823f8-a871-4780-b0e4-a54553cbe9da,2020. 07. 17. 15:43:17,2020. 07. 17. 15:43:17,
+1,com.sec.android.app.shealth,,32400000,,,2020. 07. 09. 07:00:00,,,goal_sleep_TYPE_GOAL_DAILY_WAKEUP_TIME,sZOKHxE5f1,,Sleep.Goal,2020. 07. 08. 22:00:00,3,928ace8e-b398-4a84-8bdc-219da0e76a8c,2020. 07. 17. 15:43:17,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 10. 07:00:00,,,goal_sleep_TYPE_GOAL_DAILY_WAKEUP_TIME,sZOKHxE5f1,,Sleep.Goal,2020. 07. 10. 00:20:00,2,d32056da-1154-4088-9f5e-9311abe67b55,2020. 07. 17. 15:43:17,2020. 07. 17. 15:43:17,
+0,com.sec.android.app.shealth,,32400000,,,2020. 07. 13. 07:00:00,,,goal_sleep_TYPE_GOAL_DAILY_WAKEUP_TIME,sZOKHxE5f1,,Sleep.Goal,2020. 07. 13. 03:20:00,3,d2685924-51dc-4dca-bf3d-015c52693c9c,2020. 07. 17. 15:43:17,2020. 07. 17. 15:43:17,
+

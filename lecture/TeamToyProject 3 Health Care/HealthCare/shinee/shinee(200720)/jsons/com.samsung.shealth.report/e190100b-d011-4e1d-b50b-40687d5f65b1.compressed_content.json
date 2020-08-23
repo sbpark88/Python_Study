@@ -1,0 +1,301 @@
+{
+  "mPeriod" : "7월 5일 - 11일",
+  "mNoData" : "데이터 없음",
+  "mSummaryWeight" : {
+    "title" : "체중",
+    "items" : [
+
+    ]
+  },
+  "mSummaryBMA" : {
+    "dailyUnit" : "분",
+    "title" : "활동 상세정보",
+    "items" : [
+      {
+        "value" : 77,
+        "key" : "AvgActiveMinutes",
+        "keyString" : "평균 활동시간",
+        "valueString" : "77 분"
+      },
+      {
+        "value" : 388,
+        "key" : "TotalActiveMinutes",
+        "keyString" : "총 활동시간",
+        "valueString" : "388 분"
+      },
+      {
+        "value" : 655,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "평균 칼로리 소모량",
+        "valueString" : "655 kcal"
+      },
+      {
+        "value" : 10.134751319885254,
+        "key" : "AvgDistance",
+        "keyString" : "평균 거리",
+        "valueString" : "10.1 km"
+      },
+      {
+        "value" : 2147483648,
+        "key" : "TotalCyclingDistance",
+        "keyString" : "총 자전거타기 거리",
+        "valueString" : "2147483648.0 km"
+      }
+    ],
+    "subtitle" : "활동적인 하루",
+    "dailyValues" : [
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 0,
+        "goal" : 60
+      },
+      {
+        "value" : 89,
+        "goal" : 60
+      },
+      {
+        "value" : 109,
+        "goal" : 60
+      },
+      {
+        "value" : 104,
+        "goal" : 60
+      },
+      {
+        "value" : 86,
+        "goal" : 60
+      }
+    ]
+  },
+  "mPreviousReportUuid" : "09749558-aaa6-4e82-8d64-40e25a416065",
+  "mAvgGoalPerformance" : {
+    "eh" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "평균 목표 달성",
+    "sleep" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "11시간 30분",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 345,
+      "valueOneWeekAgo" : 345,
+      "validDaysOfPrevious" : 2147483647,
+      "difference" : "설정 안 함",
+      "evaluationUnit" : {
+        "minUnit" : "분",
+        "hourUnit" : "시간"
+      },
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "7월 5일 - 11일 vs. 6월 28일 - 7월 4일",
+    "avgActivityPerfTitle" : "평균 활동",
+    "bma" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "129%",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 129,
+      "valueOneWeekAgo" : 129,
+      "validDaysOfPrevious" : 2147483647,
+      "difference" : "설정 안 함",
+      "unit" : "%",
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    }
+  },
+  "mGroupComparison" : {
+    "subtitle" : "나 vs. 그룹",
+    "title" : "그룹 비교",
+    "groupComparisonItems" : [
+      {
+        "unit" : "분",
+        "groupKey" : "그룹",
+        "valueMineString" : "77 분",
+        "valueOtherString" : "44 분",
+        "valueOther" : 44,
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "title" : "평균 일일 활동 시간",
+        "valueMine" : 77,
+        "type" : "AvgDailyActiveMinutes",
+        "myKey" : "나"
+      },
+      {
+        "unit" : "걸음",
+        "groupKey" : "그룹",
+        "valueMineString" : "9974 걸음 수",
+        "valueOtherString" : "4346 걸음 수",
+        "valueOther" : 4346,
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "title" : "평균 일일 걸음",
+        "valueMine" : 9974,
+        "type" : "AvgDailySteps",
+        "myKey" : "나"
+      }
+    ]
+  },
+  "mComparingPeriod" : "7월 5일 - 11일 vs. 6월 28일 - 7월 4일",
+  "mSummarySleep" : {
+    "dailyUnit" : "시간",
+    "title" : "활동 상세정보",
+    "items" : [
+      {
+        "value" : 690,
+        "key" : "TotalTimeSlept",
+        "keyString" : "총 수면시간",
+        "valueString" : "11시간 30분"
+      }
+    ],
+    "subtitle" : "수면",
+    "dailyValues" : [
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 302,
+        "goal" : -1
+      },
+      {
+        "value" : 388,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      }
+    ]
+  },
+  "mRequestIdMap" : {
+    "tracker.weight" : 1,
+    "tracker.sleep" : 1,
+    "goal.activity" : 1,
+    "tracker.heartrate" : 1,
+    "goal.nutrition" : 1
+  },
+  "mLocaleId" : "ko_KR",
+  "mWeekDay" : {
+    "days" : [
+      "일",
+      "월",
+      "화",
+      "수",
+      "목",
+      "금",
+      "토"
+    ]
+  },
+  "mTitle" : "주별 분석",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "모든 태그",
+    "restingHR" : [
+      {
+        "value" : 66,
+        "key" : "RestingHRAvg",
+        "keyString" : "평균",
+        "valueString" : "66.0 bpm"
+      },
+      {
+        "value" : 66,
+        "key" : "RestingHRHighest",
+        "keyString" : "최고",
+        "valueString" : "66.0 bpm"
+      },
+      {
+        "value" : 66,
+        "key" : "RestingHRLowest",
+        "keyString" : "최저",
+        "valueString" : "66.0 bpm"
+      }
+    ],
+    "subtiltlePostmealBG" : "식후",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "맥박수",
+    "subtiltlePremealBG" : "식전",
+    "subtitleDiastolic" : "이완기 혈압",
+    "subtitleRestingHR" : "안정 시 심박수",
+    "subtitleBP" : "혈압",
+    "subtitleSystolic" : "수축기 혈압",
+    "subtitleHR" : "심박수",
+    "subtitleBG" : "혈당",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 80,
+        "key" : "HRAvg",
+        "keyString" : "평균",
+        "valueString" : "80.0 bpm"
+      },
+      {
+        "value" : 82,
+        "key" : "HRHighest",
+        "keyString" : "최고",
+        "valueString" : "82.0 bpm"
+      },
+      {
+        "value" : 78,
+        "key" : "HRLowest",
+        "keyString" : "최저",
+        "valueString" : "78.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "모든 태그",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "공복",
+    "bpLastReading" : [
+
+    ]
+  },
+  "mSummaryEH" : {
+    "title" : "활동 상세정보",
+    "subtitle" : "균형잡힌 식생활",
+    "items" : [
+
+    ]
+  }
+}

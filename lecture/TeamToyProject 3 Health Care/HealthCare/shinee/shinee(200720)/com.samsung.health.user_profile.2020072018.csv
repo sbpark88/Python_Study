@@ -1,0 +1,5 @@
+com.samsung.health.user_profile,1140029,8
+int_value,pkg_name,double_value,key,blob_value,deviceuuid,text_value,float_value,datauuid,long_value,create_time,update_time
+,com.sec.android.app.shealth,,step_calibration,00000000-0000-0000-0000-000000000017.blob_value,Eb+lTn/Fs+,,,00000000-0000-0000-0000-000000000017,,2018. 01. 01. 오후 9:12:51,2020. 07. 07. 오후 6:32:22,
+,com.sec.android.app.shealth,,dashboard_config,00000000-0000-0000-0000-000000000016.blob_value,sb+tNhfKEH,,,00000000-0000-0000-0000-000000000016,,2020. 07. 09. 오후 6:02:33,2020. 07. 09. 오후 6:02:33,
+

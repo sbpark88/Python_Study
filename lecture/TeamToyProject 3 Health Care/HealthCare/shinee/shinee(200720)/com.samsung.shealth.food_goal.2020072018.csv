@@ -1,0 +1,5 @@
+com.samsung.shealth.food_goal,1140029,1
+set_time,update_time,goal_by,pkg_name,time_offset,datauuid,goal_value,create_time,comment,goal_type,deviceuuid
+1594279478116,2020. 07. 09. 오후 4:24:44,,com.sec.android.app.shealth,32400000,DAA5BDA1-EFFA-4061-B997-AC23F0C2D8FC,0.000000,2020. 07. 09. 오후 4:24:38,,1,sb+tNhfKEH,
+1594279689434,2020. 07. 09. 오후 4:28:09,,com.sec.android.app.shealth,32400000,0293E927-01D3-40CB-9488-421B22D3D670,1604.000000,2020. 07. 09. 오후 4:28:09,,0,sb+tNhfKEH,
+

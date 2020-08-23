@@ -1,0 +1,13 @@
+com.samsung.shealth.stand_day_summary,1140029,1
+stand_time,update_time,pkg_name,day_time,datauuid,create_time,deviceuuid
+4194304,2020. 07. 07. 오후 10:48:37,com.sec.android.app.shealth,1594080000000,c920cc3e-aafe-3cd7-60eb-dd848ffaa8d0,2020. 07. 07. 오후 6:31:30,Eb+lTn/Fs+,
+804864,2020. 07. 08. 오후 7:54:00,com.sec.android.app.shealth,1594166400000,1ca19ebd-6246-01c5-779a-454d2e23ff00,2020. 07. 08. 오전 12:00:38,Eb+lTn/Fs+,
+611328,2020. 07. 09. 오후 7:18:59,com.sec.android.app.shealth,1594252800000,6f3df4f1-6171-99be-9039-4e15dca86283,2020. 07. 09. 오전 12:00:04,Eb+lTn/Fs+,
+370688,2020. 07. 10. 오후 6:31:28,com.sec.android.app.shealth,1594339200000,127d1adc-543a-0b9a-1e74-a3fd88cbb378,2020. 07. 10. 오전 12:00:08,Eb+lTn/Fs+,
+0,2020. 07. 11. 오전 12:00:05,com.sec.android.app.shealth,1594425600000,59705b47-ebf4-8368-4419-ecc3f9373850,2020. 07. 11. 오전 12:00:05,Eb+lTn/Fs+,
+131072,2020. 07. 12. 오후 5:45:25,com.sec.android.app.shealth,1594512000000,86fff95f-d40b-0adb-9a0f-d7c05dfda556,2020. 07. 12. 오전 11:27:06,Eb+lTn/Fs+,
+657408,2020. 07. 13. 오후 7:45:39,com.sec.android.app.shealth,1594598400000,75a86bd8-87d2-599b-bb80-1230ecf92f23,2020. 07. 13. 오전 12:00:11,Eb+lTn/Fs+,
+2525184,2020. 07. 14. 오후 9:36:44,com.sec.android.app.shealth,1594684800000,35270d2a-7a88-6622-3043-27a5aab48d76,2020. 07. 14. 오전 12:00:04,Eb+lTn/Fs+,
+52224,2020. 07. 15. 오후 3:05:32,com.sec.android.app.shealth,1594771200000,4f4202ee-77cd-74af-8be8-705a65104b22,2020. 07. 15. 오전 12:00:16,Eb+lTn/Fs+,
+65536,2020. 07. 17. 오후 4:15:15,com.sec.android.app.shealth,1594944000000,6577bbba-148e-46a2-d995-a32054bfb6e3,2020. 07. 17. 오전 7:32:24,Eb+lTn/Fs+,
+

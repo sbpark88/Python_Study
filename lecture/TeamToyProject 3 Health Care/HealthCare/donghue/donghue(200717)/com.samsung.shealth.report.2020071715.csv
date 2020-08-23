@@ -1,0 +1,4 @@
+com.samsung.shealth.report,1140029,3
+start_date,pkg_name,version,type,compressed_content,deviceuuid,is_empty,datauuid,timezone,create_time,update_time,content
+1593874800000,com.sec.android.app.shealth,1,0,40215ede-f1bf-40ff-ab01-d3d091ee9448.compressed_content,sZOKHxE5f1,0,40215ede-f1bf-40ff-ab01-d3d091ee9448,Asia/Seoul,2020. 07. 13. 14:14:03,2020. 07. 13. 14:14:04,X,
+

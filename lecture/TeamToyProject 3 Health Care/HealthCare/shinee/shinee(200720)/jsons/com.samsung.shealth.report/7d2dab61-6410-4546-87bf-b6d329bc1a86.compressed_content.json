@@ -1,0 +1,211 @@
+{
+  "mPeriod" : "5월 3일 - 9일",
+  "mNoData" : "데이터 없음",
+  "mSummaryWeight" : {
+    "title" : "체중",
+    "items" : [
+
+    ]
+  },
+  "mSummaryFood" : {
+    "title" : "활동 상세정보",
+    "subtitle" : "음식",
+    "items" : [
+
+    ]
+  },
+  "mAvgGoalPerformance" : {
+    "food" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "평균 목표 달성",
+    "sleep" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "5월 3일 - 9일",
+    "avgActivityPerfTitle" : "평균 활동",
+    "step" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "0걸음 수",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 0,
+      "valueOneWeekAgo" : 0,
+      "validDaysOfPrevious" : 0,
+      "difference" : "설정 안 함",
+      "unit" : "걸음 수",
+      "validDays" : 0,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    }
+  },
+  "mComparingPeriod" : "5월 3일 - 9일",
+  "mSummarySleep" : {
+    "title" : "활동 상세정보",
+    "subtitle" : "수면",
+    "items" : [
+
+    ]
+  },
+  "mSummaryStep" : {
+    "dailyUnit" : "걸음 수",
+    "title" : "활동 상세정보",
+    "items" : [
+      {
+        "value" : 0,
+        "key" : "TotalSteps",
+        "keyString" : "총 걸음",
+        "valueString" : "0"
+      },
+      {
+        "value" : 0,
+        "key" : "AvgDistance",
+        "keyString" : "평균 거리",
+        "valueString" : "0.0 km"
+      },
+      {
+        "value" : 0,
+        "key" : "TotalDistance",
+        "keyString" : "총 거리",
+        "valueString" : "0.0 km"
+      },
+      {
+        "value" : 0,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "평균 칼로리 소모량",
+        "valueString" : "0 kcal"
+      },
+      {
+        "value" : 0,
+        "key" : "TotalCaloriesBurned",
+        "keyString" : "총 칼로리 소모량",
+        "valueString" : "0 kcal"
+      }
+    ],
+    "subtitle" : "걸음 수",
+    "dailyValues" : [
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      },
+      {
+        "value" : 0,
+        "goal" : 10000
+      }
+    ]
+  },
+  "mRequestIdMap" : {
+    "tracker.sleep" : 1,
+    "tracker.food" : 1,
+    "tracker.heartrate" : 1,
+    "tracker.pedometer" : 1,
+    "tracker.weight" : 1
+  },
+  "mLocaleId" : "ko_KR",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "모든 태그",
+    "restingHR" : [
+
+    ],
+    "subtiltlePostmealBG" : "식후",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "맥박수",
+    "subtiltlePremealBG" : "식전",
+    "subtitleDiastolic" : "이완기 혈압",
+    "subtitleRestingHR" : "안정 시 심박수",
+    "subtitleBP" : "혈압",
+    "subtitleSystolic" : "수축기 혈압",
+    "subtitleHR" : "심박수",
+    "subtitleBG" : "혈당",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 75,
+        "key" : "HRAvg",
+        "keyString" : "평균",
+        "valueString" : "75.0 bpm"
+      },
+      {
+        "value" : 98,
+        "key" : "HRHighest",
+        "keyString" : "최고",
+        "valueString" : "98.0 bpm"
+      },
+      {
+        "value" : 56,
+        "key" : "HRLowest",
+        "keyString" : "최저",
+        "valueString" : "56.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "모든 태그",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "공복",
+    "bpLastReading" : [
+
+    ]
+  },
+  "mTitle" : "주별 분석",
+  "mWeekDay" : {
+    "days" : [
+      "일",
+      "월",
+      "화",
+      "수",
+      "목",
+      "금",
+      "토"
+    ]
+  }
+}

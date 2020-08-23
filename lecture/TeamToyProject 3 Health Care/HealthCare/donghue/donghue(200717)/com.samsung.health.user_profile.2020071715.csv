@@ -1,0 +1,13 @@
+com.samsung.health.user_profile,1140029,8
+int_value,pkg_name,double_value,key,blob_value,deviceuuid,text_value,float_value,datauuid,long_value,create_time,update_time
+,com.sec.android.app.shealth,,step_calibration,00000000-0000-0000-0000-000000000017.blob_value,ITeeWLY/e8,,,00000000-0000-0000-0000-000000000017,,2020. 04. 23. 16:26:40,2020. 07. 05. 22:11:28,
+,com.sec.android.app.shealth,,name,,sZOKHxE5f1,동이,,00000000-0000-0000-0000-000000000004,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,gender,,sZOKHxE5f1,M,,00000000-0000-0000-0000-000000000005,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,birth_date,,sZOKHxE5f1,19941007,,00000000-0000-0000-0000-00000000000a,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,height,,sZOKHxE5f1,,183.200043,00000000-0000-0000-0000-000000000008,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+180004,com.sec.android.app.shealth,,activity_type,,sZOKHxE5f1,,,00000000-0000-0000-0000-00000000000b,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,image,00000000-0000-0000-0000-000000000002.blob_value,sZOKHxE5f1,,,00000000-0000-0000-0000-000000000002,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,image_type,,sZOKHxE5f1,image/jpeg,,00000000-0000-0000-0000-000000000018,,2020. 07. 06. 09:51:24,2020. 07. 06. 09:51:24,
+,com.sec.android.app.shealth,,dashboard_config,00000000-0000-0000-0000-000000000016.blob_value,sZOKHxE5f1,,,00000000-0000-0000-0000-000000000016,,2020. 07. 10. 14:13:32,2020. 07. 10. 14:13:32,
+,com.sec.android.app.shealth,,weight,,sZOKHxE5f1,,80.000053,00000000-0000-0000-0000-000000000006,,2020. 07. 13. 17:03:07,2020. 07. 13. 17:03:07,
+

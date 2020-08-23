@@ -1,0 +1,5 @@
+com.samsung.health.food_intake,1140029,4
+unit,pkg_name,amount,meal_type,time_offset,start_time,comment,calorie,deviceuuid,custom,food_info_id,datauuid,create_time,name,update_time
+120001,com.sec.android.app.shealth,100.000000,100003,32400000,2020. 07. 07. 오전 12:50:55,,287.000000,sb+tNhfKEH,,F9E14787-62B0-441E-AB3E-631DCB882CDC,FFF8AE54-75FE-4230-A5B2-9BF9B366761D,2020. 07. 08. 오전 12:51:30,고기,2020. 07. 08. 오전 12:51:30,
+120001,com.sec.android.app.shealth,100.000000,100003,32400000,2020. 07. 07. 오전 12:50:55,,275.000000,sb+tNhfKEH,,2E76CF5B-4FD2-4853-BE45-BC67DD676DED,F0CCE824-020E-481C-9E7C-A230FA9EF63E,2020. 07. 08. 오전 12:51:30,크림 파스타,2020. 07. 08. 오전 12:51:30,
+

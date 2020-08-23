@@ -1,0 +1,6 @@
+com.samsung.health.water_intake,1140029,5
+amount,custom,pkg_name,update_time,start_time,datauuid,time_offset,create_time,comment,deviceuuid,unit_amount
+250.000000,,com.sec.android.app.shealth,2020. 07. 08. 오전 6:35:32,2020. 07. 08. 오전 6:35:32,d77207ef-159e-9958-305a-2d2092856f30,32400000,2020. 07. 08. 오전 6:35:32,,Eb+lTn/Fs+,250.000000,
+250.000000,,com.sec.android.app.shealth,2020. 07. 08. 오후 5:37:46,2020. 07. 08. 오후 5:37:46,3bdcefc3-08a1-ec94-9003-87786e39d6aa,32400000,2020. 07. 08. 오후 5:37:46,,Eb+lTn/Fs+,250.000000,
+250.000000,,com.sec.android.app.shealth,2020. 07. 08. 오후 5:37:48,2020. 07. 08. 오후 5:37:48,1f88e26e-5a17-46b3-a2bd-65abd36fcecb,32400000,2020. 07. 08. 오후 5:37:48,,Eb+lTn/Fs+,250.000000,
+

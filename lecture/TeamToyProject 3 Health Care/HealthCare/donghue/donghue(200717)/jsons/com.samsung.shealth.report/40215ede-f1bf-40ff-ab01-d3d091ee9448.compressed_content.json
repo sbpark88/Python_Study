@@ -1,0 +1,542 @@
+{
+  "mPeriod" : "7월 5일 - 11일",
+  "mNoData" : "데이터 없음",
+  "mSummaryWeight" : {
+    "title" : "체중",
+    "items" : [
+      {
+        "value" : 0,
+        "keyString" : "최신",
+        "valueString" : "85.0 kg, BMI: 25.3 (화)"
+      },
+      {
+        "value" : 85.699996948242188,
+        "key" : "Avg",
+        "keyString" : "평균",
+        "valueString" : "85.7 kg"
+      },
+      {
+        "value" : 86,
+        "key" : "Highest",
+        "keyString" : "최고",
+        "valueString" : "86.0 kg"
+      },
+      {
+        "value" : 85,
+        "key" : "Lowest",
+        "keyString" : "최저",
+        "valueString" : "85.0 kg"
+      }
+    ]
+  },
+  "mSummaryBMA" : {
+    "dailyUnit" : "분",
+    "title" : "활동 상세정보",
+    "items" : [
+      {
+        "value" : 98,
+        "key" : "AvgActiveMinutes",
+        "keyString" : "평균 활동시간",
+        "valueString" : "98 분"
+      },
+      {
+        "value" : 590,
+        "key" : "TotalActiveMinutes",
+        "keyString" : "총 활동시간",
+        "valueString" : "590 분"
+      },
+      {
+        "value" : 573,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "평균 칼로리 소모량",
+        "valueString" : "573 kcal"
+      },
+      {
+        "value" : 6.2885255813598633,
+        "key" : "AvgDistance",
+        "keyString" : "평균 거리",
+        "valueString" : "6.3 km"
+      },
+      {
+        "value" : 2147483648,
+        "key" : "TotalCyclingDistance",
+        "keyString" : "총 자전거타기 거리",
+        "valueString" : "2147483648.0 km"
+      }
+    ],
+    "subtitle" : "활동적인 하루",
+    "dailyValues" : [
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 138,
+        "goal" : 60
+      },
+      {
+        "value" : 187,
+        "goal" : 80
+      },
+      {
+        "value" : 79,
+        "goal" : 80
+      },
+      {
+        "value" : 77,
+        "goal" : 80
+      },
+      {
+        "value" : 109,
+        "goal" : 80
+      },
+      {
+        "value" : 0,
+        "goal" : 80
+      }
+    ]
+  },
+  "mSummaryFMR" : {
+    "multiDailyValues" : [
+      {
+        "first" : [
+
+        ],
+        "second" : 2147483647
+      },
+      {
+        "first" : [
+
+        ],
+        "second" : 2147483647
+      },
+      {
+        "first" : [
+          {
+            "bedTimeGoalValue" : 7.5500001907348633,
+            "bedTimeGraphValue" : 6.2750000953674316,
+            "wakeupTime" : 1594076430336,
+            "bedTime" : 1594056638464,
+            "wakeupTimeGraphValue" : 1.5999999046325684,
+            "wakeTimeGoalValue" : 2.4500000476837158
+          }
+        ],
+        "second" : 0
+      },
+      {
+        "first" : [
+          {
+            "bedTimeGoalValue" : 7.5500001907348633,
+            "bedTimeGraphValue" : 7.5500001907348633,
+            "wakeupTime" : 1594159136768,
+            "bedTime" : 1594137640960,
+            "wakeupTimeGraphValue" : 2.4500000476837158,
+            "wakeTimeGoalValue" : 2.4500000476837158
+          }
+        ],
+        "second" : 1
+      },
+      {
+        "first" : [
+          {
+            "bedTimeGoalValue" : 7.5500001907348633,
+            "bedTimeGraphValue" : 10.100000381469727,
+            "wakeupTime" : 1594227556352,
+            "bedTime" : 1594213138432,
+            "wakeupTimeGraphValue" : 6.7000007629394531,
+            "wakeTimeGoalValue" : 2.4500000476837158
+          },
+          {
+            "bedTimeGoalValue" : 7.5500001907348633,
+            "bedTimeGraphValue" : 6.2750000953674316,
+            "wakeupTime" : 1594245644288,
+            "bedTime" : 1594229391360,
+            "wakeupTimeGraphValue" : 2.4500000476837158,
+            "wakeTimeGoalValue" : 2.4500000476837158
+          }
+        ],
+        "second" : 2
+      },
+      {
+        "first" : [
+          {
+            "bedTimeGoalValue" : 7.5500001907348633,
+            "bedTimeGraphValue" : 8.1166667938232422,
+            "wakeupTime" : 1594332020736,
+            "bedTime" : 1594308034560,
+            "wakeupTimeGraphValue" : 2.4500000476837158,
+            "wakeTimeGoalValue" : 2.4500000476837158
+          }
+        ],
+        "second" : 2
+      },
+      {
+        "first" : [
+
+        ],
+        "second" : 2147483647
+      }
+    ],
+    "timeConsistencyDenominator" : 4,
+    "subtitle" : "규칙적인 수면 습관",
+    "title" : "활동 상세정보",
+    "dailyUnit" : "시간",
+    "chartInformation" : {
+      "wakeupTimeGoalDisplayString" : "07:00",
+      "minimum" : 0,
+      "wakeupTimeGoalGraphValue" : 2.4500000476837158,
+      "maximum" : 10,
+      "bedTimeGoalGraphValue" : 7.5500001907348633,
+      "bedTimeGoalDisplayString" : "01:00"
+    },
+    "items" : [
+      {
+        "value" : 28,
+        "key" : "AvgBedTime",
+        "keyString" : "평균 취침시간",
+        "valueString" : "00:28"
+      },
+      {
+        "value" : 434,
+        "key" : "AvgWakeupTime",
+        "keyString" : "평균 기상시간",
+        "valueString" : "07:14"
+      },
+      {
+        "value" : 400,
+        "key" : "AvgTimeSlept",
+        "keyString" : "평균 수면시간",
+        "valueString" : "6시간 40분"
+      },
+      {
+        "value" : 1600,
+        "key" : "TotalSleptTime",
+        "keyString" : "총 수면시간",
+        "valueString" : "26시간 40분"
+      },
+      {
+        "value" : 1,
+        "key" : "BedTimeConsistency",
+        "keyString" : "취침시간 규칙성",
+        "valueString" : "1\/4 일"
+      },
+      {
+        "value" : 3,
+        "key" : "WakeupTimeConsistency",
+        "keyString" : "기상시간 규칙성",
+        "valueString" : "3\/4 일"
+      },
+      {
+        "key" : "RatingByPeriod",
+        "value" : 1
+      }
+    ]
+  },
+  "mAvgGoalPerformance" : {
+    "eh" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "46%",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 46,
+      "valueOneWeekAgo" : 46,
+      "validDaysOfPrevious" : 2147483647,
+      "difference" : "설정 안 함",
+      "unit" : "%",
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "평균 목표 달성",
+    "fmr" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "양호",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 1,
+      "valueOneWeekAgo" : 1,
+      "validDaysOfPrevious" : 2147483647,
+      "evaluationOfPrevious" : "설정 안 함",
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "7월 5일 - 11일",
+    "avgActivityPerfTitle" : "평균 활동",
+    "bma" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "128%",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 128,
+      "valueOneWeekAgo" : 128,
+      "validDaysOfPrevious" : 2147483647,
+      "difference" : "설정 안 함",
+      "unit" : "%",
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    }
+  },
+  "mGroupComparison" : {
+    "subtitle" : "나 vs. 그룹",
+    "title" : "그룹 비교",
+    "groupComparisonItems" : [
+      {
+        "unit" : "분",
+        "groupKey" : "그룹",
+        "valueMineString" : "98 분",
+        "valueOtherString" : "44 분",
+        "valueOther" : 44,
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "title" : "평균 일일 활동 시간",
+        "valueMine" : 98,
+        "type" : "AvgDailyActiveMinutes",
+        "myKey" : "나"
+      },
+      {
+        "unit" : "걸음",
+        "groupKey" : "그룹",
+        "valueMineString" : "10904 걸음 수",
+        "valueOtherString" : "4346 걸음 수",
+        "valueOther" : 4346,
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "title" : "평균 일일 걸음",
+        "valueMine" : 10904,
+        "type" : "AvgDailySteps",
+        "myKey" : "나"
+      },
+      {
+        "unit" : "칼로리",
+        "groupKey" : "그룹",
+        "valueMineString" : "924 kcal",
+        "valueOtherString" : "2446 kcal",
+        "valueOther" : 2446,
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "title" : "평균 일일 칼로리 섭취량",
+        "valueMine" : 924,
+        "type" : "AvgDailyCalories",
+        "myKey" : "나"
+      },
+      {
+        "unit" : "{duration}",
+        "sleepGroupUnit" : {
+          "minUnit" : "분",
+          "hourUnit" : "시간"
+        },
+        "valueMineString" : "6시간 40분",
+        "valueOther" : 485,
+        "sleepUnit" : {
+          "minUnit" : "분",
+          "hourUnit" : "시간"
+        },
+        "type" : "AvgDailySleepLength",
+        "title" : "평균 일일 수면시간",
+        "groupDescription" : "그룹 : 삼성 헬스 남성 사용자",
+        "groupKey" : "그룹",
+        "valueOtherString" : "8시간 5분",
+        "myKey" : "나",
+        "valueMine" : 400
+      }
+    ]
+  },
+  "mComparingPeriod" : "7월 5일 - 11일",
+  "mRequestIdMap" : {
+    "tracker.weight" : 1,
+    "goal.sleep" : 1,
+    "goal.activity" : 1,
+    "tracker.heartrate" : 1,
+    "goal.nutrition" : 1
+  },
+  "mLocaleId" : "ko_KR",
+  "mWeekDay" : {
+    "days" : [
+      "일",
+      "월",
+      "화",
+      "수",
+      "목",
+      "금",
+      "토"
+    ]
+  },
+  "mTitle" : "주별 분석",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "모든 태그",
+    "restingHR" : [
+      {
+        "value" : 62,
+        "key" : "RestingHRAvg",
+        "keyString" : "평균",
+        "valueString" : "62.0 bpm"
+      },
+      {
+        "value" : 67,
+        "key" : "RestingHRHighest",
+        "keyString" : "최고",
+        "valueString" : "67.0 bpm"
+      },
+      {
+        "value" : 60,
+        "key" : "RestingHRLowest",
+        "keyString" : "최저",
+        "valueString" : "60.0 bpm"
+      }
+    ],
+    "subtiltlePostmealBG" : "식후",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "맥박수",
+    "subtiltlePremealBG" : "식전",
+    "subtitleDiastolic" : "이완기 혈압",
+    "subtitleRestingHR" : "안정 시 심박수",
+    "subtitleBP" : "혈압",
+    "subtitleSystolic" : "수축기 혈압",
+    "subtitleHR" : "심박수",
+    "subtitleBG" : "혈당",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 77,
+        "key" : "HRAvg",
+        "keyString" : "평균",
+        "valueString" : "77.0 bpm"
+      },
+      {
+        "value" : 120,
+        "key" : "HRHighest",
+        "keyString" : "최고",
+        "valueString" : "120.0 bpm"
+      },
+      {
+        "value" : 60,
+        "key" : "HRLowest",
+        "keyString" : "최저",
+        "valueString" : "60.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "모든 태그",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "공복",
+    "bpLastReading" : [
+
+    ]
+  },
+  "mSummaryEH" : {
+    "dailyUnit" : "kcal",
+    "title" : "활동 상세정보",
+    "items" : [
+      {
+        "value" : 924.75,
+        "key" : "AvgCalorieIntake",
+        "keyString" : "평균 칼로리 섭취량",
+        "valueString" : "924.8 kcal"
+      },
+      {
+        "value" : 3699,
+        "key" : "TotalCalories",
+        "keyString" : "총 칼로리 섭취량",
+        "valueString" : "3699.0 kcal"
+      },
+      {
+        "value" : 123.59999847412109,
+        "key" : "AvgCarbIntake",
+        "keyString" : "평균 탄수화물 섭취량",
+        "valueString" : "123.6 g"
+      },
+      {
+        "value" : 24.700000762939453,
+        "key" : "AvgFatIntake",
+        "keyString" : "평균 지방 섭취량",
+        "valueString" : "24.7 g"
+      },
+      {
+        "value" : 41.799999237060547,
+        "key" : "AvgProteinIntake",
+        "keyString" : "평균 단백질 섭취량",
+        "valueString" : "41.8 g"
+      },
+      {
+        "value" : 56,
+        "key" : "AvgCarbBalance",
+        "keyString" : "평균 탄수화물 퍼센트",
+        "valueString" : "56.0 %"
+      },
+      {
+        "value" : 25,
+        "key" : "AvgFatBalance",
+        "keyString" : "평균 지방 퍼센트",
+        "valueString" : "25.0 %"
+      },
+      {
+        "value" : 19,
+        "key" : "AvgProteinBalance",
+        "keyString" : "평균 단백질 퍼센트",
+        "valueString" : "19.0 %"
+      },
+      {
+        "value" : 31,
+        "key" : "AvgNutrientBalanceScore",
+        "keyString" : "평균 영양 균형 점수",
+        "valueString" : "31"
+      },
+      {
+        "value" : 4.75,
+        "key" : "AvgWaterIntake",
+        "keyString" : "평균 물 섭취량",
+        "valueString" : "4.8 잔"
+      },
+      {
+        "value" : 0,
+        "key" : "AvgCaffeineIntake",
+        "keyString" : "평균 카페인 섭취량",
+        "valueString" : "0.0 잔"
+      }
+    ],
+    "subtitle" : "균형잡힌 식생활",
+    "dailyValues" : [
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : -1,
+        "goal" : -1
+      },
+      {
+        "value" : 1670,
+        "goal" : 2000
+      },
+      {
+        "value" : 442,
+        "goal" : 2000
+      },
+      {
+        "value" : 960,
+        "goal" : 2000
+      },
+      {
+        "value" : 627,
+        "goal" : 2000
+      },
+      {
+        "value" : -1,
+        "goal" : 2000
+      }
+    ]
+  }
+}

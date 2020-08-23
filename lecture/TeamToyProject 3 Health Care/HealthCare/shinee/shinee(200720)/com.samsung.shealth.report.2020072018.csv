@@ -1,0 +1,9 @@
+com.samsung.shealth.report,1140029,3
+start_date,pkg_name,version,type,compressed_content,deviceuuid,is_empty,datauuid,timezone,create_time,update_time,content
+1780153200000,com.sec.android.app.shealth,1,0,934c269d-c9e7-4c1a-8417-361b0255eec8.compressed_content,sb+tNhfKEH,0,934c269d-c9e7-4c1a-8417-361b0255eec8,Asia/Seoul,2026. 06. 08. 오후 11:56:54,2026. 06. 08. 오후 11:56:56,X,
+1593270000000,com.sec.android.app.shealth,1,0,09749558-aaa6-4e82-8d64-40e25a416065.compressed_content,sb+tNhfKEH,0,09749558-aaa6-4e82-8d64-40e25a416065,Asia/Seoul,2020. 07. 07. 오후 11:57:14,2020. 07. 07. 오후 11:57:14,X,
+1751122800000,com.sec.android.app.shealth,1,0,d7f0d42b-d87d-42c8-aa48-5f3a3e4ebd30.compressed_content,sb+tNhfKEH,0,d7f0d42b-d87d-42c8-aa48-5f3a3e4ebd30,Asia/Seoul,2020. 07. 08. 오후 1:00:06,2020. 07. 08. 오후 1:00:07,X,
+1777734000000,com.sec.android.app.shealth,1,0,7d2dab61-6410-4546-87bf-b6d329bc1a86.compressed_content,sb+tNhfKEH,0,7d2dab61-6410-4546-87bf-b6d329bc1a86,Asia/Seoul,2026. 05. 13. 오후 11:22:18,2026. 05. 13. 오후 11:22:18,X,
+1593874800000,com.sec.android.app.shealth,1,0,e190100b-d011-4e1d-b50b-40687d5f65b1.compressed_content,sb+tNhfKEH,0,e190100b-d011-4e1d-b50b-40687d5f65b1,Asia/Seoul,2020. 07. 12. 오후 6:45:19,2020. 07. 12. 오후 6:45:20,X,
+1594479600000,com.sec.android.app.shealth,1,0,9c0282c5-645f-404f-8550-8f636a11a7eb.compressed_content,sb+tNhfKEH,0,9c0282c5-645f-404f-8550-8f636a11a7eb,Asia/Seoul,2020. 07. 19. 오후 11:36:26,2020. 07. 19. 오후 11:36:27,X,
+

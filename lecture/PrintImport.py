@@ -1,13 +1,22 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # DB 접속 엔진 관련 (v1.1.1 updated 20.05.11)
+# In[ ]:
+
+
+# DB 접속 엔진 관련 (v1.1.2 updated 20.05.27)
+
+
+# # DB 접속 엔진 관련
+
+# In[1]:
 
 
 def PrintDbEngine() :
     db = []
     db.append('import psycopg2                          # PostgreSQL을 사용 가능하게 해준다.')
     db.append('import pymysql                           # MariaDB를 사용 가능하게 해준다.')
+    db.append('import cx_Oracle                         # Oracle을 사용 가능하게 해준다.')
     db.append('from sqlalchemy import create_engine     # DB 접속 엔진을 만들어준다.')
     db.append('\n# AWS PostgreSQL 데이터베이스 접속 엔진 생성.')
     db.append("aws_postgresql_url = 'postgresql://haiteam:haiteam@www.hadoopkorea.com:5432/postgres'")
@@ -15,9 +24,15 @@ def PrintDbEngine() :
     db.append('\n# AWS MariaDB 데이터베이스 접속 엔진 생성.')
     db.append("aws_mariadb_url = 'mysql+pymysql://kopo:kopo@www.hadoopkorea.com:3306/kopo'")
     db.append('engine_mariadb = create_engine(aws_mariadb_url)')
+    db.append('\n# 학교 Oracle 데이터베이스 접속 엔진 생성.')
+    db.append("kopo_oracle_url = 'oracle+cx_oracle://kopo:kopo@192.168.110.112:1521/orcl'")
+    db.append('engine_kopo_oracle = create_engine(kopo_oracle_url)')
 
     for i in range(0,len(db)):
         print(db[i])
+
+
+# In[2]:
 
 
 # PrintDbEngine()    # 디버깅용.
@@ -25,12 +40,13 @@ def PrintDbEngine() :
 
 # # 크롤링 관련
 
+# In[11]:
+
 
 def PrintWebCrawling() :
     crawling = []
     crawling.append('import requests, bs4')
     crawling.append('from selenium import webdriver')
-    crawling.append('from selenium.webdriver.common.keys import Keys')
     crawling.append('driver_loc = "/Applications/chromedriver"\n')
     crawling.append('options = webdriver.ChromeOptions()')
     crawling.append('options.add_argument("window-size=1920x1080")              # 대부분은 적용이 안 되는 것 같다.')
@@ -43,9 +59,10 @@ def PrintWebCrawling() :
     crawling.append('from selenium.webdriver.common.action_chains import ActionChains')
     crawling.append('import time')
     crawling.append('sleepTime = 3                                              # time.sleep(sleepTime)을 사용한다.')
+    crawling.append('from selenium.webdriver.support.ui import WebDriverWait as wait')
     crawling.append('from selenium.webdriver.support import expected_conditions as EC')
     crawling.append('from selenium.webdriver.common.by import By')
-    crawling.append('from selenium.webdriver.support.ui import WebDriverWait as wait')
+    crawling.append('from selenium.webdriver.common.keys import Keys')
     crawling.append('')
     crawling.append('from pandas.io.json import json_normalize                  # 그냥 pd.json_normalize를 사용하자.')
     crawling.append('from lxml import html')
@@ -56,10 +73,15 @@ def PrintWebCrawling() :
         print(crawling[i])
 
 
+# In[12]:
+
+
 # PrintWebCrawling()    # 디버깅용.
 
 
 # # 이메일 발송 관련
+
+# In[5]:
 
 
 def PrintEmail() :
@@ -72,11 +94,17 @@ def PrintEmail() :
     for i in range(0,len(email)):
         print(email[i])
 
-        
+
+# In[6]:
+
+
 # PrintEmail()    # 디버깅용.
 
 
 # # 차트 시각화 관련
+
+# In[1]:
+
 
 def PrintChart() :
     chart = []
@@ -92,4 +120,8 @@ def PrintChart() :
         print(chart[i])
 
 
+# In[2]:
+
+
 # PrintChart()    # 디버깅용.
+
